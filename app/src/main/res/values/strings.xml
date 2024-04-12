@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application Four</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about_app_fragment">About app blank fragment</string>
+
+    <string name="item_description">description</string>
+    <string name="item_title">title</string>
+    <string name="item_type_one">Type 1</string>
+    <string name="item_type_two">Type 2</string>
+    <string name="item_save">save</string>
+    <string name="item_action">action</string>
+    <string name="item_id">id</string>
+    <string name="home">Home</string>
+    <string name="about_app">About application</string>
+    <string name="header">Header</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string-array name="priorities">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+</resources>
